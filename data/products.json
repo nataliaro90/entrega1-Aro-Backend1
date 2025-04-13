@@ -1,0 +1,36 @@
+[
+  {
+    "id": 1744557084304,
+    "title": "Mouse",
+    "price": 1500
+  },
+  {
+    "id": 1744557084305,
+    "title": "Teclado",
+    "price": 3000
+  },
+  {
+    "id": 1744557226857,
+    "title": "Mouse",
+    "price": 1500
+  },
+  {
+    "id": 1744557226858,
+    "title": "Teclado",
+    "price": 3000
+  },
+  {
+    "id": 1744557226859,
+    "title": "Mouse",
+    "description": "Mouse óptico",
+    "price": 1500,
+    "stock": 10
+  },
+  {
+    "id": 1744557226860,
+    "title": "Teclado",
+    "description": "Teclado mecánico",
+    "price": 3000,
+    "stock": 5
+  }
+]
